@@ -1,0 +1,430 @@
+2015-05-26 15:47:20,183   ibmiotf.device.Client      WARNING Unable to encrypt messages because TLSv1.2 is unavailable (MQTT over SSL requires at least Python v2.7.9 or 3.4 and openssl v1.0.1)
+2015-05-26 15:47:20,186   ibmiotf.device.Client      DEBUG   Connecting... (address = sf1pr9.messaging.internetofthings.ibmcloud.com, port = 1883, clientId = d:sf1pr9:Rpi:b827eb9f9034, username = use-token-auth, password = 9?0__QJOH!mgZ+UXAY)
+2015-05-26 15:47:21,229   ibmiotf.device.Client      DEBUG   Received CONNACK (0, 0)
+2015-05-26 15:47:21,230   ibmiotf.device.Client      INFO    Connected successfully: d:sf1pr9:Rpi:b827eb9f9034
+2015-05-26 15:47:21,277   ibmiotf.device.Client      DEBUG   Sending event test1 with data {"age": 21, "name": "ashish"}
+2015-05-26 15:47:21,277   ibmiotf.device.Client      DEBUG   Sending PUBLISH (dFalse, q0, r0, m2, 'iot-2/evt/test1/fmt/json', ... (78 bytes)
+2015-05-26 15:48:07,601   ibmiotf.device.Client      WARNING Unable to encrypt messages because TLSv1.2 is unavailable (MQTT over SSL requires at least Python v2.7.9 or 3.4 and openssl v1.0.1)
+2015-05-26 15:48:07,604   ibmiotf.device.Client      DEBUG   Connecting... (address = sf1pr9.messaging.internetofthings.ibmcloud.com, port = 1883, clientId = d:sf1pr9:Rpi:b827eb9f9034, username = use-token-auth, password = 9?0__QJOH!mgZ+UXAY)
+2015-05-26 15:48:08,415   ibmiotf.device.Client      DEBUG   Received CONNACK (0, 0)
+2015-05-26 15:48:08,415   ibmiotf.device.Client      INFO    Connected successfully: d:sf1pr9:Rpi:b827eb9f9034
+2015-05-26 15:48:08,452   ibmiotf.device.Client      DEBUG   Sending event test1 with data {"age": 22, "name": "ashish"}
+2015-05-26 15:48:08,453   ibmiotf.device.Client      DEBUG   Sending PUBLISH (dFalse, q0, r0, m2, 'iot-2/evt/test1/fmt/json', ... (78 bytes)
+2015-05-26 15:59:36,722   ibmiotf.device.Client      WARNING Unable to encrypt messages because TLSv1.2 is unavailable (MQTT over SSL requires at least Python v2.7.9 or 3.4 and openssl v1.0.1)
+2015-05-26 15:59:36,725   ibmiotf.device.Client      DEBUG   Connecting... (address = sf1pr9.messaging.internetofthings.ibmcloud.com, port = 1883, clientId = d:sf1pr9:Rpi:b827eb9f9034, username = use-token-auth, password = 9?0__QJOH!mgZ+UXAY)
+2015-05-26 15:59:37,638   ibmiotf.device.Client      DEBUG   Received CONNACK (0, 0)
+2015-05-26 15:59:37,639   ibmiotf.device.Client      INFO    Connected successfully: d:sf1pr9:Rpi:b827eb9f9034
+2015-05-26 15:59:37,682   ibmiotf.device.Client      DEBUG   Sending event test1 with data {"age": 22, "name": "ashish"}
+2015-05-26 15:59:37,682   ibmiotf.device.Client      DEBUG   Sending PUBLISH (dFalse, q0, r0, m2, 'iot-2/evt/test1/fmt/json', ... (78 bytes)
+2015-05-26 16:49:19,786   ibmiotf.device.Client      WARNING Unable to encrypt messages because TLSv1.2 is unavailable (MQTT over SSL requires at least Python v2.7.9 or 3.4 and openssl v1.0.1)
+2015-05-26 16:49:19,789   ibmiotf.device.Client      DEBUG   Connecting... (address = sf1pr9.messaging.internetofthings.ibmcloud.com, port = 1883, clientId = d:sf1pr9:Rpi:b827eb9f9034, username = use-token-auth, password = 9?0__QJOH!mgZ+UXAY)
+2015-05-26 16:49:20,977   ibmiotf.device.Client      DEBUG   Received CONNACK (0, 0)
+2015-05-26 16:49:20,977   ibmiotf.device.Client      INFO    Connected successfully: d:sf1pr9:Rpi:b827eb9f9034
+2015-05-26 16:49:21,010   ibmiotf.device.Client      DEBUG   Sending event test1 with data {"age": 22, "name": "ashish"}
+2015-05-26 16:49:21,010   ibmiotf.device.Client      DEBUG   Sending PUBLISH (dFalse, q0, r0, m2, 'iot-2/evt/test1/fmt/json', ... (78 bytes)
+2015-05-26 16:59:20,529   ibmiotf.device.Client      WARNING Unable to encrypt messages because TLSv1.2 is unavailable (MQTT over SSL requires at least Python v2.7.9 or 3.4 and openssl v1.0.1)
+2015-05-26 16:59:20,532   ibmiotf.device.Client      DEBUG   Connecting... (address = sf1pr9.messaging.internetofthings.ibmcloud.com, port = 1883, clientId = d:sf1pr9:Rpi:b827eb9f9034, username = use-token-auth, password = 9?0__QJOH!mgZ+UXAY)
+2015-05-26 16:59:21,451   ibmiotf.device.Client      DEBUG   Received CONNACK (0, 0)
+2015-05-26 16:59:21,452   ibmiotf.device.Client      INFO    Connected successfully: d:sf1pr9:Rpi:b827eb9f9034
+2015-05-26 17:01:44,461   ibmiotf.device.Client      WARNING Unable to encrypt messages because TLSv1.2 is unavailable (MQTT over SSL requires at least Python v2.7.9 or 3.4 and openssl v1.0.1)
+2015-05-26 17:01:44,464   ibmiotf.device.Client      DEBUG   Connecting... (address = sf1pr9.messaging.internetofthings.ibmcloud.com, port = 1883, clientId = d:sf1pr9:Rpi:b827eb9f9034, username = use-token-auth, password = 9?0__QJOH!mgZ+UXAY)
+2015-05-26 17:01:45,706   ibmiotf.device.Client      DEBUG   Received CONNACK (0, 0)
+2015-05-26 17:01:45,706   ibmiotf.device.Client      INFO    Connected successfully: d:sf1pr9:Rpi:b827eb9f9034
+2015-05-26 17:03:12,778   ibmiotf.device.Client      WARNING Unable to encrypt messages because TLSv1.2 is unavailable (MQTT over SSL requires at least Python v2.7.9 or 3.4 and openssl v1.0.1)
+2015-05-26 17:03:12,781   ibmiotf.device.Client      DEBUG   Connecting... (address = sf1pr9.messaging.internetofthings.ibmcloud.com, port = 1883, clientId = d:sf1pr9:Rpi:b827eb9f9034, username = use-token-auth, password = 9?0__QJOH!mgZ+UXAY)
+2015-05-26 17:03:13,578   ibmiotf.device.Client      DEBUG   Received CONNACK (0, 0)
+2015-05-26 17:03:13,578   ibmiotf.device.Client      INFO    Connected successfully: d:sf1pr9:Rpi:b827eb9f9034
+2015-05-26 17:07:24,979   ibmiotf.device.Client      WARNING Unable to encrypt messages because TLSv1.2 is unavailable (MQTT over SSL requires at least Python v2.7.9 or 3.4 and openssl v1.0.1)
+2015-05-26 17:07:24,982   ibmiotf.device.Client      DEBUG   Connecting... (address = sf1pr9.messaging.internetofthings.ibmcloud.com, port = 1883, clientId = d:sf1pr9:Rpi:b827eb9f9034, username = use-token-auth, password = 9?0__QJOH!mgZ+UXAY)
+2015-05-26 17:07:25,961   ibmiotf.device.Client      DEBUG   Received CONNACK (0, 0)
+2015-05-26 17:07:25,961   ibmiotf.device.Client      INFO    Connected successfully: d:sf1pr9:Rpi:b827eb9f9034
+2015-05-26 17:11:25,426   ibmiotf.device.Client      WARNING Unable to encrypt messages because TLSv1.2 is unavailable (MQTT over SSL requires at least Python v2.7.9 or 3.4 and openssl v1.0.1)
+2015-05-26 17:11:25,428   ibmiotf.device.Client      DEBUG   Connecting... (address = sf1pr9.messaging.internetofthings.ibmcloud.com, port = 1883, clientId = d:sf1pr9:Rpi:b827eb9f9034, username = use-token-auth, password = 9?0__QJOH!mgZ+UXAY)
+2015-05-26 17:11:26,279   ibmiotf.device.Client      DEBUG   Received CONNACK (0, 0)
+2015-05-26 17:11:26,280   ibmiotf.device.Client      INFO    Connected successfully: d:sf1pr9:Rpi:b827eb9f9034
+2015-05-26 17:13:22,147   ibmiotf.device.Client      WARNING Unable to encrypt messages because TLSv1.2 is unavailable (MQTT over SSL requires at least Python v2.7.9 or 3.4 and openssl v1.0.1)
+2015-05-26 17:13:22,151   ibmiotf.device.Client      DEBUG   Connecting... (address = sf1pr9.messaging.internetofthings.ibmcloud.com, port = 1883, clientId = d:sf1pr9:Rpi:b827eb9f9034, username = use-token-auth, password = 9?0__QJOH!mgZ+UXAY)
+2015-05-26 17:13:22,940   ibmiotf.device.Client      DEBUG   Received CONNACK (0, 0)
+2015-05-26 17:13:22,940   ibmiotf.device.Client      INFO    Connected successfully: d:sf1pr9:Rpi:b827eb9f9034
+2015-05-26 17:16:13,993   ibmiotf.device.Client      WARNING Unable to encrypt messages because TLSv1.2 is unavailable (MQTT over SSL requires at least Python v2.7.9 or 3.4 and openssl v1.0.1)
+2015-05-26 17:16:13,996   ibmiotf.device.Client      DEBUG   Connecting... (address = sf1pr9.messaging.internetofthings.ibmcloud.com, port = 1883, clientId = d:sf1pr9:Rpi:b827eb9f9034, username = use-token-auth, password = 9?0__QJOH!mgZ+UXAY)
+2015-05-26 17:16:14,785   ibmiotf.device.Client      DEBUG   Received CONNACK (0, 0)
+2015-05-26 17:16:14,786   ibmiotf.device.Client      INFO    Connected successfully: d:sf1pr9:Rpi:b827eb9f9034
+2015-05-26 17:16:14,806   ibmiotf.device.Client      DEBUG   Sending event test1 with data {"age": 22, "name": "ashish"}
+2015-05-26 17:16:14,806   ibmiotf.device.Client      DEBUG   Sending PUBLISH (dFalse, q0, r0, m2, 'iot-2/evt/test1/fmt/json', ... (78 bytes)
+2015-05-26 17:17:33,768   ibmiotf.device.Client      WARNING Unable to encrypt messages because TLSv1.2 is unavailable (MQTT over SSL requires at least Python v2.7.9 or 3.4 and openssl v1.0.1)
+2015-05-26 17:17:33,771   ibmiotf.device.Client      DEBUG   Connecting... (address = sf1pr9.messaging.internetofthings.ibmcloud.com, port = 1883, clientId = d:sf1pr9:Rpi:b827eb9f9034, username = use-token-auth, password = 9?0__QJOH!mgZ+UXAY)
+2015-05-26 17:17:34,624   ibmiotf.device.Client      DEBUG   Received CONNACK (0, 0)
+2015-05-26 17:17:34,624   ibmiotf.device.Client      INFO    Connected successfully: d:sf1pr9:Rpi:b827eb9f9034
+2015-05-26 17:18:57,550   ibmiotf.device.Client      WARNING Unable to encrypt messages because TLSv1.2 is unavailable (MQTT over SSL requires at least Python v2.7.9 or 3.4 and openssl v1.0.1)
+2015-05-26 17:18:57,552   ibmiotf.device.Client      DEBUG   Connecting... (address = sf1pr9.messaging.internetofthings.ibmcloud.com, port = 1883, clientId = d:sf1pr9:Rpi:b827eb9f9034, username = use-token-auth, password = 9?0__QJOH!mgZ+UXAY)
+2015-05-26 17:18:58,328   ibmiotf.device.Client      DEBUG   Received CONNACK (0, 0)
+2015-05-26 17:18:58,329   ibmiotf.device.Client      INFO    Connected successfully: d:sf1pr9:Rpi:b827eb9f9034
+2015-05-26 17:20:25,531   ibmiotf.device.Client      WARNING Unable to encrypt messages because TLSv1.2 is unavailable (MQTT over SSL requires at least Python v2.7.9 or 3.4 and openssl v1.0.1)
+2015-05-26 17:20:25,534   ibmiotf.device.Client      DEBUG   Connecting... (address = sf1pr9.messaging.internetofthings.ibmcloud.com, port = 1883, clientId = d:sf1pr9:Rpi:b827eb9f9034, username = use-token-auth, password = 9?0__QJOH!mgZ+UXAY)
+2015-05-26 17:20:26,320   ibmiotf.device.Client      DEBUG   Received CONNACK (0, 0)
+2015-05-26 17:20:26,320   ibmiotf.device.Client      INFO    Connected successfully: d:sf1pr9:Rpi:b827eb9f9034
+2015-05-26 17:22:14,474   ibmiotf.device.Client      WARNING Unable to encrypt messages because TLSv1.2 is unavailable (MQTT over SSL requires at least Python v2.7.9 or 3.4 and openssl v1.0.1)
+2015-05-26 17:22:14,477   ibmiotf.device.Client      DEBUG   Connecting... (address = sf1pr9.messaging.internetofthings.ibmcloud.com, port = 1883, clientId = d:sf1pr9:Rpi:b827eb9f9034, username = use-token-auth, password = 9?0__QJOH!mgZ+UXAY)
+2015-05-26 17:22:15,214   ibmiotf.device.Client      DEBUG   Received CONNACK (0, 0)
+2015-05-26 17:22:15,214   ibmiotf.device.Client      INFO    Connected successfully: d:sf1pr9:Rpi:b827eb9f9034
+2015-05-26 17:22:34,327   ibmiotf.device.Client      WARNING Unable to encrypt messages because TLSv1.2 is unavailable (MQTT over SSL requires at least Python v2.7.9 or 3.4 and openssl v1.0.1)
+2015-05-26 17:22:34,330   ibmiotf.device.Client      DEBUG   Connecting... (address = sf1pr9.messaging.internetofthings.ibmcloud.com, port = 1883, clientId = d:sf1pr9:Rpi:b827eb9f9034, username = use-token-auth, password = 9?0__QJOH!mgZ+UXAY)
+2015-05-26 17:22:35,110   ibmiotf.device.Client      DEBUG   Received CONNACK (0, 0)
+2015-05-26 17:22:35,110   ibmiotf.device.Client      INFO    Connected successfully: d:sf1pr9:Rpi:b827eb9f9034
+2015-05-26 17:23:13,159   ibmiotf.device.Client      WARNING Unable to encrypt messages because TLSv1.2 is unavailable (MQTT over SSL requires at least Python v2.7.9 or 3.4 and openssl v1.0.1)
+2015-05-26 17:23:13,163   ibmiotf.device.Client      DEBUG   Connecting... (address = sf1pr9.messaging.internetofthings.ibmcloud.com, port = 1883, clientId = d:sf1pr9:Rpi:b827eb9f9034, username = use-token-auth, password = 9?0__QJOH!mgZ+UXAY)
+2015-05-26 17:23:13,922   ibmiotf.device.Client      DEBUG   Received CONNACK (0, 0)
+2015-05-26 17:23:13,923   ibmiotf.device.Client      INFO    Connected successfully: d:sf1pr9:Rpi:b827eb9f9034
+2015-05-26 17:23:27,071   ibmiotf.device.Client      WARNING Unable to encrypt messages because TLSv1.2 is unavailable (MQTT over SSL requires at least Python v2.7.9 or 3.4 and openssl v1.0.1)
+2015-05-26 17:23:27,074   ibmiotf.device.Client      DEBUG   Connecting... (address = sf1pr9.messaging.internetofthings.ibmcloud.com, port = 1883, clientId = d:sf1pr9:Rpi:b827eb9f9034, username = use-token-auth, password = 9?0__QJOH!mgZ+UXAY)
+2015-05-26 17:23:27,784   ibmiotf.device.Client      DEBUG   Received CONNACK (0, 0)
+2015-05-26 17:23:27,785   ibmiotf.device.Client      INFO    Connected successfully: d:sf1pr9:Rpi:b827eb9f9034
+2015-05-26 17:25:55,778   ibmiotf.device.Client      WARNING Unable to encrypt messages because TLSv1.2 is unavailable (MQTT over SSL requires at least Python v2.7.9 or 3.4 and openssl v1.0.1)
+2015-05-26 17:25:55,781   ibmiotf.device.Client      DEBUG   Connecting... (address = sf1pr9.messaging.internetofthings.ibmcloud.com, port = 1883, clientId = d:sf1pr9:Rpi:b827eb9f9034, username = use-token-auth, password = 9?0__QJOH!mgZ+UXAY)
+2015-05-26 17:25:56,678   ibmiotf.device.Client      DEBUG   Received CONNACK (0, 0)
+2015-05-26 17:25:56,678   ibmiotf.device.Client      INFO    Connected successfully: d:sf1pr9:Rpi:b827eb9f9034
+2015-05-26 17:30:00,988   ibmiotf.device.Client      WARNING Unable to encrypt messages because TLSv1.2 is unavailable (MQTT over SSL requires at least Python v2.7.9 or 3.4 and openssl v1.0.1)
+2015-05-26 17:30:00,991   ibmiotf.device.Client      DEBUG   Connecting... (address = sf1pr9.messaging.internetofthings.ibmcloud.com, port = 1883, clientId = d:sf1pr9:Rpi:b827eb9f9034, username = use-token-auth, password = 9?0__QJOH!mgZ+UXAY)
+2015-05-26 17:30:01,922   ibmiotf.device.Client      DEBUG   Received CONNACK (0, 0)
+2015-05-26 17:30:01,923   ibmiotf.device.Client      INFO    Connected successfully: d:sf1pr9:Rpi:b827eb9f9034
+2015-05-26 17:37:23,038   ibmiotf.device.Client      WARNING Unable to encrypt messages because TLSv1.2 is unavailable (MQTT over SSL requires at least Python v2.7.9 or 3.4 and openssl v1.0.1)
+2015-05-26 17:37:23,041   ibmiotf.device.Client      DEBUG   Connecting... (address = sf1pr9.messaging.internetofthings.ibmcloud.com, port = 1883, clientId = d:sf1pr9:Rpi:b827eb9f9034, username = use-token-auth, password = 9?0__QJOH!mgZ+UXAY)
+2015-05-26 17:37:24,017   ibmiotf.device.Client      DEBUG   Received CONNACK (0, 0)
+2015-05-26 17:37:24,018   ibmiotf.device.Client      INFO    Connected successfully: d:sf1pr9:Rpi:b827eb9f9034
+2015-05-26 17:37:24,020   ibmiotf.device.Client      DEBUG   Sending event test1 with data {"age": 22, "name": "ashish"}
+2015-05-26 17:37:24,021   ibmiotf.device.Client      DEBUG   Sending PUBLISH (dFalse, q0, r0, m2, 'iot-2/evt/test1/fmt/json', ... (78 bytes)
+2015-05-26 17:37:40,881   ibmiotf.device.Client      WARNING Unable to encrypt messages because TLSv1.2 is unavailable (MQTT over SSL requires at least Python v2.7.9 or 3.4 and openssl v1.0.1)
+2015-05-26 17:37:40,884   ibmiotf.device.Client      DEBUG   Connecting... (address = sf1pr9.messaging.internetofthings.ibmcloud.com, port = 1883, clientId = d:sf1pr9:Rpi:b827eb9f9034, username = use-token-auth, password = 9?0__QJOH!mgZ+UXAY)
+2015-05-26 17:37:41,676   ibmiotf.device.Client      DEBUG   Received CONNACK (0, 0)
+2015-05-26 17:37:41,676   ibmiotf.device.Client      INFO    Connected successfully: d:sf1pr9:Rpi:b827eb9f9034
+2015-05-26 17:37:41,703   ibmiotf.device.Client      DEBUG   Sending event test1 with data {"age": 22, "name": "ashish"}
+2015-05-26 17:37:41,704   ibmiotf.device.Client      DEBUG   Sending PUBLISH (dFalse, q0, r0, m2, 'iot-2/evt/test1/fmt/json', ... (78 bytes)
+2015-05-26 17:40:25,846   ibmiotf.device.Client      WARNING Unable to encrypt messages because TLSv1.2 is unavailable (MQTT over SSL requires at least Python v2.7.9 or 3.4 and openssl v1.0.1)
+2015-05-26 17:40:25,849   ibmiotf.device.Client      DEBUG   Connecting... (address = sf1pr9.messaging.internetofthings.ibmcloud.com, port = 1883, clientId = d:sf1pr9:Rpi:b827eb9f9034, username = use-token-auth, password = 9?0__QJOH!mgZ+UXAY)
+2015-05-26 17:40:26,810   ibmiotf.device.Client      DEBUG   Received CONNACK (0, 0)
+2015-05-26 17:40:26,811   ibmiotf.device.Client      INFO    Connected successfully: d:sf1pr9:Rpi:b827eb9f9034
+2015-05-26 17:43:10,480   ibmiotf.device.Client      WARNING Unable to encrypt messages because TLSv1.2 is unavailable (MQTT over SSL requires at least Python v2.7.9 or 3.4 and openssl v1.0.1)
+2015-05-26 17:43:10,483   ibmiotf.device.Client      DEBUG   Connecting... (address = sf1pr9.messaging.internetofthings.ibmcloud.com, port = 1883, clientId = d:sf1pr9:Rpi:b827eb9f9034, username = use-token-auth, password = 9?0__QJOH!mgZ+UXAY)
+2015-05-26 17:43:11,452   ibmiotf.device.Client      DEBUG   Received CONNACK (0, 0)
+2015-05-26 17:43:11,453   ibmiotf.device.Client      INFO    Connected successfully: d:sf1pr9:Rpi:b827eb9f9034
+2015-05-26 18:46:19,007   ibmiotf.device.Client      WARNING Unable to encrypt messages because TLSv1.2 is unavailable (MQTT over SSL requires at least Python v2.7.9 or 3.4 and openssl v1.0.1)
+2015-05-26 18:46:19,009   ibmiotf.device.Client      DEBUG   Connecting... (address = sf1pr9.messaging.internetofthings.ibmcloud.com, port = 1883, clientId = d:sf1pr9:Rpi:b827eb9f9034, username = use-token-auth, password = 9?0__QJOH!mgZ+UXAY)
+2015-05-26 18:46:19,945   ibmiotf.device.Client      DEBUG   Received CONNACK (0, 0)
+2015-05-26 18:46:19,947   ibmiotf.device.Client      INFO    Connected successfully: d:sf1pr9:Rpi:b827eb9f9034
+2015-05-26 18:52:00,238   ibmiotf.device.Client      WARNING Unable to encrypt messages because TLSv1.2 is unavailable (MQTT over SSL requires at least Python v2.7.9 or 3.4 and openssl v1.0.1)
+2015-05-26 18:52:00,241   ibmiotf.device.Client      DEBUG   Connecting... (address = sf1pr9.messaging.internetofthings.ibmcloud.com, port = 1883, clientId = d:sf1pr9:Rpi:b827eb9f9034, username = use-token-auth, password = 9?0__QJOH!mgZ+UXAY)
+2015-05-26 18:52:01,195   ibmiotf.device.Client      DEBUG   Received CONNACK (0, 0)
+2015-05-26 18:52:01,195   ibmiotf.device.Client      INFO    Connected successfully: d:sf1pr9:Rpi:b827eb9f9034
+2015-05-26 18:52:29,031   ibmiotf.device.Client      WARNING Unable to encrypt messages because TLSv1.2 is unavailable (MQTT over SSL requires at least Python v2.7.9 or 3.4 and openssl v1.0.1)
+2015-05-26 18:52:29,034   ibmiotf.device.Client      DEBUG   Connecting... (address = sf1pr9.messaging.internetofthings.ibmcloud.com, port = 1883, clientId = d:sf1pr9:Rpi:b827eb9f9034, username = use-token-auth, password = 9?0__QJOH!mgZ+UXAY)
+2015-05-26 18:52:29,791   ibmiotf.device.Client      DEBUG   Received CONNACK (0, 0)
+2015-05-26 18:52:29,792   ibmiotf.device.Client      INFO    Connected successfully: d:sf1pr9:Rpi:b827eb9f9034
+2015-05-26 18:52:33,603   ibmiotf.device.Client      WARNING Unable to encrypt messages because TLSv1.2 is unavailable (MQTT over SSL requires at least Python v2.7.9 or 3.4 and openssl v1.0.1)
+2015-05-26 18:52:33,606   ibmiotf.device.Client      DEBUG   Connecting... (address = sf1pr9.messaging.internetofthings.ibmcloud.com, port = 1883, clientId = d:sf1pr9:Rpi:b827eb9f9034, username = use-token-auth, password = 9?0__QJOH!mgZ+UXAY)
+2015-05-26 18:52:34,338   ibmiotf.device.Client      DEBUG   Received CONNACK (0, 0)
+2015-05-26 18:52:34,338   ibmiotf.device.Client      INFO    Connected successfully: d:sf1pr9:Rpi:b827eb9f9034
+2015-05-26 18:52:55,645   ibmiotf.device.Client      WARNING Unable to encrypt messages because TLSv1.2 is unavailable (MQTT over SSL requires at least Python v2.7.9 or 3.4 and openssl v1.0.1)
+2015-05-26 18:52:55,648   ibmiotf.device.Client      DEBUG   Connecting... (address = sf1pr9.messaging.internetofthings.ibmcloud.com, port = 1883, clientId = d:sf1pr9:Rpi:b827eb9f9034, username = use-token-auth, password = 9?0__QJOH!mgZ+UXAY)
+2015-05-26 18:52:56,392   ibmiotf.device.Client      DEBUG   Received CONNACK (0, 0)
+2015-05-26 18:52:56,392   ibmiotf.device.Client      INFO    Connected successfully: d:sf1pr9:Rpi:b827eb9f9034
+2015-05-26 18:53:16,072   ibmiotf.device.Client      WARNING Unable to encrypt messages because TLSv1.2 is unavailable (MQTT over SSL requires at least Python v2.7.9 or 3.4 and openssl v1.0.1)
+2015-05-26 18:53:16,074   ibmiotf.device.Client      DEBUG   Connecting... (address = sf1pr9.messaging.internetofthings.ibmcloud.com, port = 1883, clientId = d:sf1pr9:Rpi:b827eb9f9034, username = use-token-auth, password = 9?0__QJOH!mgZ+UXAY)
+2015-05-26 18:53:16,851   ibmiotf.device.Client      DEBUG   Received CONNACK (0, 0)
+2015-05-26 18:53:16,851   ibmiotf.device.Client      INFO    Connected successfully: d:sf1pr9:Rpi:b827eb9f9034
+2015-05-26 18:54:27,316   ibmiotf.device.Client      WARNING Unable to encrypt messages because TLSv1.2 is unavailable (MQTT over SSL requires at least Python v2.7.9 or 3.4 and openssl v1.0.1)
+2015-05-26 18:54:27,319   ibmiotf.device.Client      DEBUG   Connecting... (address = sf1pr9.messaging.internetofthings.ibmcloud.com, port = 1883, clientId = d:sf1pr9:Rpi:b827eb9f9034, username = use-token-auth, password = 9?0__QJOH!mgZ+UXAY)
+2015-05-26 18:54:33,078   ibmiotf.device.Client      DEBUG   Received CONNACK (0, 0)
+2015-05-26 18:54:33,078   ibmiotf.device.Client      INFO    Connected successfully: d:sf1pr9:Rpi:b827eb9f9034
+2015-05-26 18:54:33,092   ibmiotf.device.Client      DEBUG   Sending event test1 with data {"age": 22, "name": "ashish"}
+2015-05-26 18:54:33,092   ibmiotf.device.Client      DEBUG   Sending PUBLISH (dFalse, q0, r0, m2, 'iot-2/evt/test1/fmt/json', ... (78 bytes)
+2015-05-26 18:54:41,717   ibmiotf.device.Client      WARNING Unable to encrypt messages because TLSv1.2 is unavailable (MQTT over SSL requires at least Python v2.7.9 or 3.4 and openssl v1.0.1)
+2015-05-26 18:54:41,720   ibmiotf.device.Client      DEBUG   Connecting... (address = sf1pr9.messaging.internetofthings.ibmcloud.com, port = 1883, clientId = d:sf1pr9:Rpi:b827eb9f9034, username = use-token-auth, password = 9?0__QJOH!mgZ+UXAY)
+2015-05-26 18:55:01,742   ibmiotf.device.Client      CRITICAL Failed to connect to the IBM Internet of Things service: sf1pr9.messaging.internetofthings.ibmcloud.com - [Errno -2] Name or service not known
+2015-05-26 19:05:41,370   ibmiotf.device.Client      WARNING Unable to encrypt messages because TLSv1.2 is unavailable (MQTT over SSL requires at least Python v2.7.9 or 3.4 and openssl v1.0.1)
+2015-05-26 19:05:41,373   ibmiotf.device.Client      DEBUG   Connecting... (address = sf1pr9.messaging.internetofthings.ibmcloud.com, port = 1883, clientId = d:sf1pr9:Rpi:b827eb9f9034, username = use-token-auth, password = 9?0__QJOH!mgZ+UXAY)
+2015-05-26 19:05:42,330   ibmiotf.device.Client      DEBUG   Received CONNACK (0, 0)
+2015-05-26 19:05:42,331   ibmiotf.device.Client      INFO    Connected successfully: d:sf1pr9:Rpi:b827eb9f9034
+2015-05-26 19:05:42,336   ibmiotf.device.Client      DEBUG   Sending event test1 with data {"age": 22, "name": "ashish"}
+2015-05-26 19:05:42,336   ibmiotf.device.Client      DEBUG   Sending PUBLISH (dFalse, q0, r0, m2, 'iot-2/evt/test1/fmt/json', ... (78 bytes)
+2015-05-26 19:05:55,338   ibmiotf.device.Client      WARNING Unable to encrypt messages because TLSv1.2 is unavailable (MQTT over SSL requires at least Python v2.7.9 or 3.4 and openssl v1.0.1)
+2015-05-26 19:05:55,341   ibmiotf.device.Client      DEBUG   Connecting... (address = sf1pr9.messaging.internetofthings.ibmcloud.com, port = 1883, clientId = d:sf1pr9:Rpi:b827eb9f9034, username = use-token-auth, password = 9?0__QJOH!mgZ+UXAY)
+2015-05-26 19:05:56,191   ibmiotf.device.Client      DEBUG   Received CONNACK (0, 0)
+2015-05-26 19:05:56,191   ibmiotf.device.Client      INFO    Connected successfully: d:sf1pr9:Rpi:b827eb9f9034
+2015-05-26 19:05:56,201   ibmiotf.device.Client      DEBUG   Sending event test1 with data {"age": 22, "name": "ashish"}
+2015-05-26 19:05:56,201   ibmiotf.device.Client      DEBUG   Sending PUBLISH (dFalse, q0, r0, m2, 'iot-2/evt/test1/fmt/json', ... (78 bytes)
+2015-05-26 19:06:15,210   ibmiotf.device.Client      WARNING Unable to encrypt messages because TLSv1.2 is unavailable (MQTT over SSL requires at least Python v2.7.9 or 3.4 and openssl v1.0.1)
+2015-05-26 19:06:15,213   ibmiotf.device.Client      DEBUG   Connecting... (address = sf1pr9.messaging.internetofthings.ibmcloud.com, port = 1883, clientId = d:sf1pr9:Rpi:b827eb9f9034, username = use-token-auth, password = 9?0__QJOH!mgZ+UXAY)
+2015-05-26 19:06:16,466   ibmiotf.device.Client      DEBUG   Received CONNACK (0, 0)
+2015-05-26 19:06:16,467   ibmiotf.device.Client      INFO    Connected successfully: d:sf1pr9:Rpi:b827eb9f9034
+2015-05-26 19:06:16,485   ibmiotf.device.Client      DEBUG   Sending event test1 with data {"age": 22, "name": "ashish"}
+2015-05-26 19:06:16,485   ibmiotf.device.Client      DEBUG   Sending PUBLISH (dFalse, q0, r0, m2, 'iot-2/evt/test1/fmt/json', ... (78 bytes)
+2015-05-26 19:06:53,965   ibmiotf.device.Client      WARNING Unable to encrypt messages because TLSv1.2 is unavailable (MQTT over SSL requires at least Python v2.7.9 or 3.4 and openssl v1.0.1)
+2015-05-26 19:06:53,968   ibmiotf.device.Client      DEBUG   Connecting... (address = sf1pr9.messaging.internetofthings.ibmcloud.com, port = 1883, clientId = d:sf1pr9:Rpi:b827eb9f9034, username = use-token-auth, password = 9?0__QJOH!mgZ+UXAY)
+2015-05-26 19:06:59,730   ibmiotf.device.Client      DEBUG   Received CONNACK (0, 0)
+2015-05-26 19:06:59,730   ibmiotf.device.Client      INFO    Connected successfully: d:sf1pr9:Rpi:b827eb9f9034
+2015-05-26 19:06:59,747   ibmiotf.device.Client      DEBUG   Sending event test1 with data {"age": 22, "name": "ashish"}
+2015-05-26 19:06:59,747   ibmiotf.device.Client      DEBUG   Sending PUBLISH (dFalse, q0, r0, m2, 'iot-2/evt/test1/fmt/json', ... (78 bytes)
+2015-05-26 19:12:45,264   ibmiotf.device.Client      WARNING Unable to encrypt messages because TLSv1.2 is unavailable (MQTT over SSL requires at least Python v2.7.9 or 3.4 and openssl v1.0.1)
+2015-05-26 19:12:45,267   ibmiotf.device.Client      DEBUG   Connecting... (address = sf1pr9.messaging.internetofthings.ibmcloud.com, port = 1883, clientId = d:sf1pr9:Rpi:b827eb9f9034, username = use-token-auth, password = 9?0__QJOH!mgZ+UXAY)
+2015-05-26 19:12:46,903   ibmiotf.device.Client      DEBUG   Received CONNACK (0, 0)
+2015-05-26 19:12:46,903   ibmiotf.device.Client      INFO    Connected successfully: d:sf1pr9:Rpi:b827eb9f9034
+2015-05-26 19:13:48,009   ibmiotf.device.Client      WARNING Unable to encrypt messages because TLSv1.2 is unavailable (MQTT over SSL requires at least Python v2.7.9 or 3.4 and openssl v1.0.1)
+2015-05-26 19:13:48,012   ibmiotf.device.Client      DEBUG   Connecting... (address = sf1pr9.messaging.internetofthings.ibmcloud.com, port = 1883, clientId = d:sf1pr9:Rpi:b827eb9f9034, username = use-token-auth, password = 9?0__QJOH!mgZ+UXAY)
+2015-05-26 19:13:49,241   ibmiotf.device.Client      DEBUG   Received CONNACK (0, 0)
+2015-05-26 19:13:49,241   ibmiotf.device.Client      INFO    Connected successfully: d:sf1pr9:Rpi:b827eb9f9034
+2015-05-26 19:15:00,731   ibmiotf.device.Client      WARNING Unable to encrypt messages because TLSv1.2 is unavailable (MQTT over SSL requires at least Python v2.7.9 or 3.4 and openssl v1.0.1)
+2015-05-26 19:15:00,734   ibmiotf.device.Client      DEBUG   Connecting... (address = sf1pr9.messaging.internetofthings.ibmcloud.com, port = 1883, clientId = d:sf1pr9:Rpi:b827eb9f9034, username = use-token-auth, password = 9?0__QJOH!mgZ+UXAY)
+2015-05-26 19:15:01,948   ibmiotf.device.Client      DEBUG   Received CONNACK (0, 0)
+2015-05-26 19:15:01,948   ibmiotf.device.Client      INFO    Connected successfully: d:sf1pr9:Rpi:b827eb9f9034
+2015-05-26 19:15:04,605   ibmiotf.device.Client      WARNING Unable to encrypt messages because TLSv1.2 is unavailable (MQTT over SSL requires at least Python v2.7.9 or 3.4 and openssl v1.0.1)
+2015-05-26 19:15:04,608   ibmiotf.device.Client      DEBUG   Connecting... (address = sf1pr9.messaging.internetofthings.ibmcloud.com, port = 1883, clientId = d:sf1pr9:Rpi:b827eb9f9034, username = use-token-auth, password = 9?0__QJOH!mgZ+UXAY)
+2015-05-26 19:15:05,454   ibmiotf.device.Client      DEBUG   Received CONNACK (0, 0)
+2015-05-26 19:15:05,454   ibmiotf.device.Client      INFO    Connected successfully: d:sf1pr9:Rpi:b827eb9f9034
+2015-05-26 19:15:06,010   ibmiotf.device.Client      WARNING Unable to encrypt messages because TLSv1.2 is unavailable (MQTT over SSL requires at least Python v2.7.9 or 3.4 and openssl v1.0.1)
+2015-05-26 19:15:06,013   ibmiotf.device.Client      DEBUG   Connecting... (address = sf1pr9.messaging.internetofthings.ibmcloud.com, port = 1883, clientId = d:sf1pr9:Rpi:b827eb9f9034, username = use-token-auth, password = 9?0__QJOH!mgZ+UXAY)
+2015-05-26 19:15:06,855   ibmiotf.device.Client      DEBUG   Received CONNACK (0, 0)
+2015-05-26 19:15:06,856   ibmiotf.device.Client      INFO    Connected successfully: d:sf1pr9:Rpi:b827eb9f9034
+2015-05-26 19:15:20,116   ibmiotf.device.Client      WARNING Unable to encrypt messages because TLSv1.2 is unavailable (MQTT over SSL requires at least Python v2.7.9 or 3.4 and openssl v1.0.1)
+2015-05-26 19:15:20,119   ibmiotf.device.Client      DEBUG   Connecting... (address = sf1pr9.messaging.internetofthings.ibmcloud.com, port = 1883, clientId = d:sf1pr9:Rpi:b827eb9f9034, username = use-token-auth, password = 9?0__QJOH!mgZ+UXAY)
+2015-05-26 19:15:20,881   ibmiotf.device.Client      DEBUG   Received CONNACK (0, 0)
+2015-05-26 19:15:20,881   ibmiotf.device.Client      INFO    Connected successfully: d:sf1pr9:Rpi:b827eb9f9034
+2015-05-26 19:16:34,510   ibmiotf.device.Client      WARNING Unable to encrypt messages because TLSv1.2 is unavailable (MQTT over SSL requires at least Python v2.7.9 or 3.4 and openssl v1.0.1)
+2015-05-26 19:16:34,513   ibmiotf.device.Client      DEBUG   Connecting... (address = sf1pr9.messaging.internetofthings.ibmcloud.com, port = 1883, clientId = d:sf1pr9:Rpi:b827eb9f9034, username = use-token-auth, password = 9?0__QJOH!mgZ+UXAY)
+2015-05-26 19:16:35,280   ibmiotf.device.Client      DEBUG   Received CONNACK (0, 0)
+2015-05-26 19:16:35,281   ibmiotf.device.Client      INFO    Connected successfully: d:sf1pr9:Rpi:b827eb9f9034
+2015-05-26 19:18:32,010   ibmiotf.device.Client      WARNING Unable to encrypt messages because TLSv1.2 is unavailable (MQTT over SSL requires at least Python v2.7.9 or 3.4 and openssl v1.0.1)
+2015-05-26 19:18:32,012   ibmiotf.device.Client      DEBUG   Connecting... (address = sf1pr9.messaging.internetofthings.ibmcloud.com, port = 1883, clientId = d:sf1pr9:Rpi:b827eb9f9034, username = use-token-auth, password = 9?0__QJOH!mgZ+UXAY)
+2015-05-26 19:18:32,931   ibmiotf.device.Client      DEBUG   Received CONNACK (0, 0)
+2015-05-26 19:18:32,932   ibmiotf.device.Client      INFO    Connected successfully: d:sf1pr9:Rpi:b827eb9f9034
+2015-05-26 19:18:48,865   ibmiotf.device.Client      WARNING Unable to encrypt messages because TLSv1.2 is unavailable (MQTT over SSL requires at least Python v2.7.9 or 3.4 and openssl v1.0.1)
+2015-05-26 19:18:48,868   ibmiotf.device.Client      DEBUG   Connecting... (address = sf1pr9.messaging.internetofthings.ibmcloud.com, port = 1883, clientId = d:sf1pr9:Rpi:b827eb9f9034, username = use-token-auth, password = 9?0__QJOH!mgZ+UXAY)
+2015-05-26 19:18:49,713   ibmiotf.device.Client      DEBUG   Received CONNACK (0, 0)
+2015-05-26 19:18:49,714   ibmiotf.device.Client      INFO    Connected successfully: d:sf1pr9:Rpi:b827eb9f9034
+2015-05-26 19:40:43,357   ibmiotf.device.Client      WARNING Unable to encrypt messages because TLSv1.2 is unavailable (MQTT over SSL requires at least Python v2.7.9 or 3.4 and openssl v1.0.1)
+2015-05-26 19:40:43,359   ibmiotf.device.Client      DEBUG   Connecting... (address = sf1pr9.messaging.internetofthings.ibmcloud.com, port = 1883, clientId = d:sf1pr9:Rpi:b827eb9f9034, username = use-token-auth, password = 9?0__QJOH!mgZ+UXAY)
+2015-05-26 19:40:44,375   ibmiotf.device.Client      DEBUG   Received CONNACK (0, 0)
+2015-05-26 19:40:44,375   ibmiotf.device.Client      INFO    Connected successfully: d:sf1pr9:Rpi:b827eb9f9034
+2015-05-26 19:41:49,686   ibmiotf.device.Client      WARNING Unable to encrypt messages because TLSv1.2 is unavailable (MQTT over SSL requires at least Python v2.7.9 or 3.4 and openssl v1.0.1)
+2015-05-26 19:41:49,689   ibmiotf.device.Client      DEBUG   Connecting... (address = sf1pr9.messaging.internetofthings.ibmcloud.com, port = 1883, clientId = d:sf1pr9:Rpi:b827eb9f9034, username = use-token-auth, password = 9?0__QJOH!mgZ+UXAY)
+2015-05-26 19:41:50,472   ibmiotf.device.Client      DEBUG   Received CONNACK (0, 0)
+2015-05-26 19:41:50,472   ibmiotf.device.Client      INFO    Connected successfully: d:sf1pr9:Rpi:b827eb9f9034
+2015-05-26 19:42:16,440   ibmiotf.device.Client      WARNING Unable to encrypt messages because TLSv1.2 is unavailable (MQTT over SSL requires at least Python v2.7.9 or 3.4 and openssl v1.0.1)
+2015-05-26 19:42:16,443   ibmiotf.device.Client      DEBUG   Connecting... (address = sf1pr9.messaging.internetofthings.ibmcloud.com, port = 1883, clientId = d:sf1pr9:Rpi:b827eb9f9034, username = use-token-auth, password = 9?0__QJOH!mgZ+UXAY)
+2015-05-26 19:42:17,230   ibmiotf.device.Client      DEBUG   Received CONNACK (0, 0)
+2015-05-26 19:42:17,231   ibmiotf.device.Client      INFO    Connected successfully: d:sf1pr9:Rpi:b827eb9f9034
+2015-05-26 19:56:38,229   ibmiotf.device.Client      WARNING Unable to encrypt messages because TLSv1.2 is unavailable (MQTT over SSL requires at least Python v2.7.9 or 3.4 and openssl v1.0.1)
+2015-05-26 19:56:38,232   ibmiotf.device.Client      DEBUG   Connecting... (address = sf1pr9.messaging.internetofthings.ibmcloud.com, port = 1883, clientId = d:sf1pr9:Rpi:b827eb9f9034, username = use-token-auth, password = 9?0__QJOH!mgZ+UXAY)
+2015-05-26 19:56:39,285   ibmiotf.device.Client      DEBUG   Received CONNACK (0, 0)
+2015-05-26 19:56:39,285   ibmiotf.device.Client      INFO    Connected successfully: d:sf1pr9:Rpi:b827eb9f9034
+2015-05-26 19:58:14,922   ibmiotf.device.Client      WARNING Unable to encrypt messages because TLSv1.2 is unavailable (MQTT over SSL requires at least Python v2.7.9 or 3.4 and openssl v1.0.1)
+2015-05-26 19:58:14,925   ibmiotf.device.Client      DEBUG   Connecting... (address = sf1pr9.messaging.internetofthings.ibmcloud.com, port = 1883, clientId = d:sf1pr9:Rpi:b827eb9f9034, username = use-token-auth, password = 9?0__QJOH!mgZ+UXAY)
+2015-05-26 19:58:19,423   ibmiotf.device.Client      DEBUG   Received CONNACK (0, 0)
+2015-05-26 19:58:19,424   ibmiotf.device.Client      INFO    Connected successfully: d:sf1pr9:Rpi:b827eb9f9034
+2015-05-26 19:58:31,927   ibmiotf.device.Client      WARNING Unable to encrypt messages because TLSv1.2 is unavailable (MQTT over SSL requires at least Python v2.7.9 or 3.4 and openssl v1.0.1)
+2015-05-26 19:58:31,930   ibmiotf.device.Client      DEBUG   Connecting... (address = sf1pr9.messaging.internetofthings.ibmcloud.com, port = 1883, clientId = d:sf1pr9:Rpi:b827eb9f9034, username = use-token-auth, password = 9?0__QJOH!mgZ+UXAY)
+2015-05-26 19:58:32,831   ibmiotf.device.Client      DEBUG   Received CONNACK (0, 0)
+2015-05-26 19:58:32,831   ibmiotf.device.Client      INFO    Connected successfully: d:sf1pr9:Rpi:b827eb9f9034
+2015-05-26 20:00:51,674   ibmiotf.device.Client      WARNING Unable to encrypt messages because TLSv1.2 is unavailable (MQTT over SSL requires at least Python v2.7.9 or 3.4 and openssl v1.0.1)
+2015-05-26 20:00:51,677   ibmiotf.device.Client      DEBUG   Connecting... (address = sf1pr9.messaging.internetofthings.ibmcloud.com, port = 1883, clientId = d:sf1pr9:Rpi:b827eb9f9034, username = use-token-auth, password = 9?0__QJOH!mgZ+UXAY)
+2015-05-26 20:00:52,724   ibmiotf.device.Client      DEBUG   Received CONNACK (0, 0)
+2015-05-26 20:00:52,724   ibmiotf.device.Client      INFO    Connected successfully: d:sf1pr9:Rpi:b827eb9f9034
+2015-05-26 20:01:14,213   ibmiotf.device.Client      WARNING Unable to encrypt messages because TLSv1.2 is unavailable (MQTT over SSL requires at least Python v2.7.9 or 3.4 and openssl v1.0.1)
+2015-05-26 20:01:14,216   ibmiotf.device.Client      DEBUG   Connecting... (address = sf1pr9.messaging.internetofthings.ibmcloud.com, port = 1883, clientId = d:sf1pr9:Rpi:b827eb9f9034, username = use-token-auth, password = 9?0__QJOH!mgZ+UXAY)
+2015-05-26 20:01:15,205   ibmiotf.device.Client      DEBUG   Received CONNACK (0, 0)
+2015-05-26 20:01:15,205   ibmiotf.device.Client      INFO    Connected successfully: d:sf1pr9:Rpi:b827eb9f9034
+2015-05-26 20:01:31,464   ibmiotf.device.Client      WARNING Unable to encrypt messages because TLSv1.2 is unavailable (MQTT over SSL requires at least Python v2.7.9 or 3.4 and openssl v1.0.1)
+2015-05-26 20:01:31,467   ibmiotf.device.Client      DEBUG   Connecting... (address = sf1pr9.messaging.internetofthings.ibmcloud.com, port = 1883, clientId = d:sf1pr9:Rpi:b827eb9f9034, username = use-token-auth, password = 9?0__QJOH!mgZ+UXAY)
+2015-05-26 20:01:32,411   ibmiotf.device.Client      DEBUG   Received CONNACK (0, 0)
+2015-05-26 20:01:32,411   ibmiotf.device.Client      INFO    Connected successfully: d:sf1pr9:Rpi:b827eb9f9034
+2015-05-26 20:02:55,033   ibmiotf.device.Client      WARNING Unable to encrypt messages because TLSv1.2 is unavailable (MQTT over SSL requires at least Python v2.7.9 or 3.4 and openssl v1.0.1)
+2015-05-26 20:02:55,036   ibmiotf.device.Client      DEBUG   Connecting... (address = sf1pr9.messaging.internetofthings.ibmcloud.com, port = 1883, clientId = d:sf1pr9:Rpi:b827eb9f9034, username = use-token-auth, password = 9?0__QJOH!mgZ+UXAY)
+2015-05-26 20:02:55,997   ibmiotf.device.Client      DEBUG   Received CONNACK (0, 0)
+2015-05-26 20:02:55,998   ibmiotf.device.Client      INFO    Connected successfully: d:sf1pr9:Rpi:b827eb9f9034
+2015-05-26 20:10:12,599   ibmiotf.device.Client      WARNING Unable to encrypt messages because TLSv1.2 is unavailable (MQTT over SSL requires at least Python v2.7.9 or 3.4 and openssl v1.0.1)
+2015-05-26 20:10:12,602   ibmiotf.device.Client      DEBUG   Connecting... (address = sf1pr9.messaging.internetofthings.ibmcloud.com, port = 1883, clientId = d:sf1pr9:Rpi:b827eb9f9034, username = use-token-auth, password = 9?0__QJOH!mgZ+UXAY)
+2015-05-26 20:10:13,414   ibmiotf.device.Client      DEBUG   Received CONNACK (0, 0)
+2015-05-26 20:10:13,415   ibmiotf.device.Client      INFO    Connected successfully: d:sf1pr9:Rpi:b827eb9f9034
+2015-05-26 20:10:16,862   ibmiotf.device.Client      WARNING Unable to encrypt messages because TLSv1.2 is unavailable (MQTT over SSL requires at least Python v2.7.9 or 3.4 and openssl v1.0.1)
+2015-05-26 20:10:16,864   ibmiotf.device.Client      DEBUG   Connecting... (address = sf1pr9.messaging.internetofthings.ibmcloud.com, port = 1883, clientId = d:sf1pr9:Rpi:b827eb9f9034, username = use-token-auth, password = 9?0__QJOH!mgZ+UXAY)
+2015-05-26 20:10:17,616   ibmiotf.device.Client      DEBUG   Received CONNACK (0, 0)
+2015-05-26 20:10:17,616   ibmiotf.device.Client      INFO    Connected successfully: d:sf1pr9:Rpi:b827eb9f9034
+2015-05-26 20:13:06,213   ibmiotf.device.Client      WARNING Unable to encrypt messages because TLSv1.2 is unavailable (MQTT over SSL requires at least Python v2.7.9 or 3.4 and openssl v1.0.1)
+2015-05-26 20:13:06,216   ibmiotf.device.Client      DEBUG   Connecting... (address = sf1pr9.messaging.internetofthings.ibmcloud.com, port = 1883, clientId = d:sf1pr9:Rpi:b827eb9f9034, username = use-token-auth, password = 9?0__QJOH!mgZ+UXAY)
+2015-05-26 20:13:07,443   ibmiotf.device.Client      DEBUG   Received CONNACK (0, 0)
+2015-05-26 20:13:07,444   ibmiotf.device.Client      INFO    Connected successfully: d:sf1pr9:Rpi:b827eb9f9034
+2015-05-26 20:13:23,077   ibmiotf.device.Client      WARNING Unable to encrypt messages because TLSv1.2 is unavailable (MQTT over SSL requires at least Python v2.7.9 or 3.4 and openssl v1.0.1)
+2015-05-26 20:13:23,079   ibmiotf.device.Client      DEBUG   Connecting... (address = sf1pr9.messaging.internetofthings.ibmcloud.com, port = 1883, clientId = d:sf1pr9:Rpi:b827eb9f9034, username = use-token-auth, password = 9?0__QJOH!mgZ+UXAY)
+2015-05-26 20:13:25,583   ibmiotf.device.Client      DEBUG   Received CONNACK (0, 0)
+2015-05-26 20:13:25,584   ibmiotf.device.Client      INFO    Connected successfully: d:sf1pr9:Rpi:b827eb9f9034
+2015-05-26 20:13:29,592   ibmiotf.device.Client      WARNING Unable to encrypt messages because TLSv1.2 is unavailable (MQTT over SSL requires at least Python v2.7.9 or 3.4 and openssl v1.0.1)
+2015-05-26 20:13:29,595   ibmiotf.device.Client      DEBUG   Connecting... (address = sf1pr9.messaging.internetofthings.ibmcloud.com, port = 1883, clientId = d:sf1pr9:Rpi:b827eb9f9034, username = use-token-auth, password = 9?0__QJOH!mgZ+UXAY)
+2015-05-26 20:13:29,957   ibmiotf.device.Client      WARNING Unable to encrypt messages because TLSv1.2 is unavailable (MQTT over SSL requires at least Python v2.7.9 or 3.4 and openssl v1.0.1)
+2015-05-26 20:13:29,960   ibmiotf.device.Client      DEBUG   Connecting... (address = sf1pr9.messaging.internetofthings.ibmcloud.com, port = 1883, clientId = d:sf1pr9:Rpi:b827eb9f9034, username = use-token-auth, password = 9?0__QJOH!mgZ+UXAY)
+2015-05-26 20:13:30,393   ibmiotf.device.Client      WARNING Unable to encrypt messages because TLSv1.2 is unavailable (MQTT over SSL requires at least Python v2.7.9 or 3.4 and openssl v1.0.1)
+2015-05-26 20:13:30,396   ibmiotf.device.Client      DEBUG   Connecting... (address = sf1pr9.messaging.internetofthings.ibmcloud.com, port = 1883, clientId = d:sf1pr9:Rpi:b827eb9f9034, username = use-token-auth, password = 9?0__QJOH!mgZ+UXAY)
+2015-05-26 20:13:30,749   ibmiotf.device.Client      WARNING Unable to encrypt messages because TLSv1.2 is unavailable (MQTT over SSL requires at least Python v2.7.9 or 3.4 and openssl v1.0.1)
+2015-05-26 20:13:30,752   ibmiotf.device.Client      DEBUG   Connecting... (address = sf1pr9.messaging.internetofthings.ibmcloud.com, port = 1883, clientId = d:sf1pr9:Rpi:b827eb9f9034, username = use-token-auth, password = 9?0__QJOH!mgZ+UXAY)
+2015-05-26 20:13:31,038   ibmiotf.device.Client      WARNING Unable to encrypt messages because TLSv1.2 is unavailable (MQTT over SSL requires at least Python v2.7.9 or 3.4 and openssl v1.0.1)
+2015-05-26 20:13:31,041   ibmiotf.device.Client      DEBUG   Connecting... (address = sf1pr9.messaging.internetofthings.ibmcloud.com, port = 1883, clientId = d:sf1pr9:Rpi:b827eb9f9034, username = use-token-auth, password = 9?0__QJOH!mgZ+UXAY)
+2015-05-26 20:13:31,290   ibmiotf.device.Client      WARNING Unable to encrypt messages because TLSv1.2 is unavailable (MQTT over SSL requires at least Python v2.7.9 or 3.4 and openssl v1.0.1)
+2015-05-26 20:13:31,293   ibmiotf.device.Client      DEBUG   Connecting... (address = sf1pr9.messaging.internetofthings.ibmcloud.com, port = 1883, clientId = d:sf1pr9:Rpi:b827eb9f9034, username = use-token-auth, password = 9?0__QJOH!mgZ+UXAY)
+2015-05-26 20:13:31,505   ibmiotf.device.Client      WARNING Unable to encrypt messages because TLSv1.2 is unavailable (MQTT over SSL requires at least Python v2.7.9 or 3.4 and openssl v1.0.1)
+2015-05-26 20:13:31,508   ibmiotf.device.Client      DEBUG   Connecting... (address = sf1pr9.messaging.internetofthings.ibmcloud.com, port = 1883, clientId = d:sf1pr9:Rpi:b827eb9f9034, username = use-token-auth, password = 9?0__QJOH!mgZ+UXAY)
+2015-05-26 20:13:31,686   ibmiotf.device.Client      WARNING Unable to encrypt messages because TLSv1.2 is unavailable (MQTT over SSL requires at least Python v2.7.9 or 3.4 and openssl v1.0.1)
+2015-05-26 20:13:31,689   ibmiotf.device.Client      DEBUG   Connecting... (address = sf1pr9.messaging.internetofthings.ibmcloud.com, port = 1883, clientId = d:sf1pr9:Rpi:b827eb9f9034, username = use-token-auth, password = 9?0__QJOH!mgZ+UXAY)
+2015-05-26 20:13:31,857   ibmiotf.device.Client      DEBUG   Received CONNACK (0, 0)
+2015-05-26 20:13:31,857   ibmiotf.device.Client      INFO    Connected successfully: d:sf1pr9:Rpi:b827eb9f9034
+2015-05-26 20:13:32,668   ibmiotf.device.Client      DEBUG   Received CONNACK (0, 0)
+2015-05-26 20:13:32,668   ibmiotf.device.Client      INFO    Connected successfully: d:sf1pr9:Rpi:b827eb9f9034
+2015-05-26 20:13:32,993   ibmiotf.device.Client      DEBUG   Received CONNACK (0, 0)
+2015-05-26 20:13:32,993   ibmiotf.device.Client      INFO    Connected successfully: d:sf1pr9:Rpi:b827eb9f9034
+2015-05-26 20:13:33,205   ibmiotf.device.Client      DEBUG   Received CONNACK (0, 0)
+2015-05-26 20:13:33,205   ibmiotf.device.Client      INFO    Connected successfully: d:sf1pr9:Rpi:b827eb9f9034
+2015-05-26 20:13:33,487   ibmiotf.device.Client      DEBUG   Received CONNACK (0, 0)
+2015-05-26 20:13:33,488   ibmiotf.device.Client      INFO    Connected successfully: d:sf1pr9:Rpi:b827eb9f9034
+2015-05-26 20:13:34,263   ibmiotf.device.Client      DEBUG   Received CONNACK (0, 0)
+2015-05-26 20:13:34,263   ibmiotf.device.Client      DEBUG   Received CONNACK (0, 0)
+2015-05-26 20:13:34,263   ibmiotf.device.Client      INFO    Connected successfully: d:sf1pr9:Rpi:b827eb9f9034
+2015-05-26 20:13:34,263   ibmiotf.device.Client      INFO    Connected successfully: d:sf1pr9:Rpi:b827eb9f9034
+2015-05-26 20:13:34,264   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Internet of Things Foundation
+2015-05-26 20:13:34,348   ibmiotf.device.Client      DEBUG   Received CONNACK (0, 0)
+2015-05-26 20:13:34,348   ibmiotf.device.Client      INFO    Connected successfully: d:sf1pr9:Rpi:b827eb9f9034
+2015-05-26 20:13:58,033   ibmiotf.device.Client      WARNING Unable to encrypt messages because TLSv1.2 is unavailable (MQTT over SSL requires at least Python v2.7.9 or 3.4 and openssl v1.0.1)
+2015-05-26 20:13:58,036   ibmiotf.device.Client      DEBUG   Connecting... (address = sf1pr9.messaging.internetofthings.ibmcloud.com, port = 1883, clientId = d:sf1pr9:Rpi:b827eb9f9034, username = use-token-auth, password = 9?0__QJOH!mgZ+UXAY)
+2015-05-26 20:13:59,285   ibmiotf.device.Client      DEBUG   Received CONNACK (0, 0)
+2015-05-26 20:13:59,286   ibmiotf.device.Client      INFO    Connected successfully: d:sf1pr9:Rpi:b827eb9f9034
+2015-05-26 20:14:53,062   ibmiotf.device.Client      WARNING Unable to encrypt messages because TLSv1.2 is unavailable (MQTT over SSL requires at least Python v2.7.9 or 3.4 and openssl v1.0.1)
+2015-05-26 20:14:53,066   ibmiotf.device.Client      DEBUG   Connecting... (address = sf1pr9.messaging.internetofthings.ibmcloud.com, port = 1883, clientId = d:sf1pr9:Rpi:b827eb9f9034, username = use-token-auth, password = 9?0__QJOH!mgZ+UXAY)
+2015-05-26 20:14:55,063   ibmiotf.device.Client      DEBUG   Received CONNACK (0, 0)
+2015-05-26 20:14:55,063   ibmiotf.device.Client      INFO    Connected successfully: d:sf1pr9:Rpi:b827eb9f9034
+2015-05-26 20:16:44,545   ibmiotf.device.Client      WARNING Unable to encrypt messages because TLSv1.2 is unavailable (MQTT over SSL requires at least Python v2.7.9 or 3.4 and openssl v1.0.1)
+2015-05-26 20:16:44,548   ibmiotf.device.Client      DEBUG   Connecting... (address = sf1pr9.messaging.internetofthings.ibmcloud.com, port = 1883, clientId = d:sf1pr9:Rpi:b827eb9f9034, username = use-token-auth, password = 9?0__QJOH!mgZ+UXAY)
+2015-05-26 20:16:45,440   ibmiotf.device.Client      DEBUG   Received CONNACK (0, 0)
+2015-05-26 20:16:45,440   ibmiotf.device.Client      INFO    Connected successfully: d:sf1pr9:Rpi:b827eb9f9034
+2015-05-26 20:16:58,006   ibmiotf.device.Client      WARNING Unable to encrypt messages because TLSv1.2 is unavailable (MQTT over SSL requires at least Python v2.7.9 or 3.4 and openssl v1.0.1)
+2015-05-26 20:16:58,009   ibmiotf.device.Client      DEBUG   Connecting... (address = sf1pr9.messaging.internetofthings.ibmcloud.com, port = 1883, clientId = d:sf1pr9:Rpi:b827eb9f9034, username = use-token-auth, password = 9?0__QJOH!mgZ+UXAY)
+2015-05-26 20:16:59,025   ibmiotf.device.Client      DEBUG   Received CONNACK (0, 0)
+2015-05-26 20:16:59,025   ibmiotf.device.Client      INFO    Connected successfully: d:sf1pr9:Rpi:b827eb9f9034
+2015-05-26 20:17:51,387   ibmiotf.device.Client      WARNING Unable to encrypt messages because TLSv1.2 is unavailable (MQTT over SSL requires at least Python v2.7.9 or 3.4 and openssl v1.0.1)
+2015-05-26 20:17:51,390   ibmiotf.device.Client      DEBUG   Connecting... (address = sf1pr9.messaging.internetofthings.ibmcloud.com, port = 1883, clientId = d:sf1pr9:Rpi:b827eb9f9034, username = use-token-auth, password = 9?0__QJOH!mgZ+UXAY)
+2015-05-26 20:17:52,120   ibmiotf.device.Client      DEBUG   Received CONNACK (0, 0)
+2015-05-26 20:17:52,120   ibmiotf.device.Client      INFO    Connected successfully: d:sf1pr9:Rpi:b827eb9f9034
+2015-05-26 20:18:08,394   ibmiotf.device.Client      WARNING Unable to encrypt messages because TLSv1.2 is unavailable (MQTT over SSL requires at least Python v2.7.9 or 3.4 and openssl v1.0.1)
+2015-05-26 20:18:08,397   ibmiotf.device.Client      DEBUG   Connecting... (address = sf1pr9.messaging.internetofthings.ibmcloud.com, port = 1883, clientId = d:sf1pr9:Rpi:b827eb9f9034, username = use-token-auth, password = 9?0__QJOH!mgZ+UXAY)
+2015-05-26 20:18:10,281   ibmiotf.device.Client      DEBUG   Received CONNACK (0, 0)
+2015-05-26 20:18:10,281   ibmiotf.device.Client      INFO    Connected successfully: d:sf1pr9:Rpi:b827eb9f9034
+2015-05-26 20:18:41,976   ibmiotf.device.Client      WARNING Unable to encrypt messages because TLSv1.2 is unavailable (MQTT over SSL requires at least Python v2.7.9 or 3.4 and openssl v1.0.1)
+2015-05-26 20:18:41,979   ibmiotf.device.Client      DEBUG   Connecting... (address = sf1pr9.messaging.internetofthings.ibmcloud.com, port = 1883, clientId = d:sf1pr9:Rpi:b827eb9f9034, username = use-token-auth, password = 9?0__QJOH!mgZ+UXAY)
+2015-05-26 20:18:42,882   ibmiotf.device.Client      DEBUG   Received CONNACK (0, 0)
+2015-05-26 20:18:42,882   ibmiotf.device.Client      INFO    Connected successfully: d:sf1pr9:Rpi:b827eb9f9034
+2015-05-26 20:19:45,451   ibmiotf.device.Client      WARNING Unable to encrypt messages because TLSv1.2 is unavailable (MQTT over SSL requires at least Python v2.7.9 or 3.4 and openssl v1.0.1)
+2015-05-26 20:19:45,454   ibmiotf.device.Client      DEBUG   Connecting... (address = sf1pr9.messaging.internetofthings.ibmcloud.com, port = 1883, clientId = d:sf1pr9:Rpi:b827eb9f9034, username = use-token-auth, password = 9?0__QJOH!mgZ+UXAY)
+2015-05-26 20:19:46,358   ibmiotf.device.Client      DEBUG   Received CONNACK (0, 0)
+2015-05-26 20:19:46,359   ibmiotf.device.Client      INFO    Connected successfully: d:sf1pr9:Rpi:b827eb9f9034
+2015-05-26 20:22:20,575   ibmiotf.device.Client      WARNING Unable to encrypt messages because TLSv1.2 is unavailable (MQTT over SSL requires at least Python v2.7.9 or 3.4 and openssl v1.0.1)
+2015-05-26 20:22:20,578   ibmiotf.device.Client      DEBUG   Connecting... (address = sf1pr9.messaging.internetofthings.ibmcloud.com, port = 1883, clientId = d:sf1pr9:Rpi:b827eb9f9034, username = use-token-auth, password = 9?0__QJOH!mgZ+UXAY)
+2015-05-26 20:22:21,466   ibmiotf.device.Client      DEBUG   Received CONNACK (0, 0)
+2015-05-26 20:22:21,467   ibmiotf.device.Client      INFO    Connected successfully: d:sf1pr9:Rpi:b827eb9f9034
+2015-05-26 20:22:44,847   ibmiotf.device.Client      WARNING Unable to encrypt messages because TLSv1.2 is unavailable (MQTT over SSL requires at least Python v2.7.9 or 3.4 and openssl v1.0.1)
+2015-05-26 20:22:44,850   ibmiotf.device.Client      DEBUG   Connecting... (address = sf1pr9.messaging.internetofthings.ibmcloud.com, port = 1883, clientId = d:sf1pr9:Rpi:b827eb9f9034, username = use-token-auth, password = 9?0__QJOH!mgZ+UXAY)
+2015-05-26 20:22:45,624   ibmiotf.device.Client      DEBUG   Received CONNACK (0, 0)
+2015-05-26 20:22:45,625   ibmiotf.device.Client      INFO    Connected successfully: d:sf1pr9:Rpi:b827eb9f9034
+2015-05-26 20:24:08,133   ibmiotf.device.Client      WARNING Unable to encrypt messages because TLSv1.2 is unavailable (MQTT over SSL requires at least Python v2.7.9 or 3.4 and openssl v1.0.1)
+2015-05-26 20:24:08,136   ibmiotf.device.Client      DEBUG   Connecting... (address = sf1pr9.messaging.internetofthings.ibmcloud.com, port = 1883, clientId = d:sf1pr9:Rpi:b827eb9f9034, username = use-token-auth, password = 9?0__QJOH!mgZ+UXAY)
+2015-05-26 20:24:09,009   ibmiotf.device.Client      DEBUG   Received CONNACK (0, 0)
+2015-05-26 20:24:09,009   ibmiotf.device.Client      INFO    Connected successfully: d:sf1pr9:Rpi:b827eb9f9034
+2015-05-26 20:57:37,782   ibmiotf.device.Client      WARNING Unable to encrypt messages because TLSv1.2 is unavailable (MQTT over SSL requires at least Python v2.7.9 or 3.4 and openssl v1.0.1)
+2015-05-26 20:57:37,785   ibmiotf.device.Client      DEBUG   Connecting... (address = sf1pr9.messaging.internetofthings.ibmcloud.com, port = 1883, clientId = d:sf1pr9:Rpi:b827eb9f9034, username = use-token-auth, password = 9?0__QJOH!mgZ+UXAY)
+2015-05-26 20:57:38,859   ibmiotf.device.Client      DEBUG   Received CONNACK (0, 0)
+2015-05-26 20:57:38,860   ibmiotf.device.Client      INFO    Connected successfully: d:sf1pr9:Rpi:b827eb9f9034
+2015-05-27 01:02:10,945   ibmiotf.device.Client      WARNING Unable to encrypt messages because TLSv1.2 is unavailable (MQTT over SSL requires at least Python v2.7.9 or 3.4 and openssl v1.0.1)
+2015-05-27 01:02:10,960   ibmiotf.device.Client      DEBUG   Connecting... (address = sf1pr9.messaging.internetofthings.ibmcloud.com, port = 1883, clientId = d:sf1pr9:Rpi:b827eb9f9034, username = use-token-auth, password = 9?0__QJOH!mgZ+UXAY)
+2015-05-27 01:02:11,871   ibmiotf.device.Client      DEBUG   Received CONNACK (0, 0)
+2015-05-27 01:02:11,871   ibmiotf.device.Client      INFO    Connected successfully: d:sf1pr9:Rpi:b827eb9f9034
+2015-05-27 01:02:12,219   ibmiotf.device.Client      DEBUG   Received SUBACK
+2015-05-27 01:02:13,251   ibmiotf.device.Client      DEBUG   Received PUBLISH (d0, q0, r0, m0, 'iot-2/cmd/test0/fmt/json', ...  (13 bytes)
+2015-05-27 01:02:13,251   ibmiotf.device.Client      DEBUG   Received command 'test0'
+2015-05-27 01:02:17,511   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Internet of Things Foundation
+2015-05-27 01:02:19,375   ibmiotf.device.Client      DEBUG   Received CONNACK (0, 0)
+2015-05-27 01:02:19,375   ibmiotf.device.Client      INFO    Connected successfully: d:sf1pr9:Rpi:b827eb9f9034
+2015-05-27 01:02:19,801   ibmiotf.device.Client      DEBUG   Received SUBACK
+2015-05-27 01:02:23,225   ibmiotf.device.Client      DEBUG   Received PUBLISH (d0, q0, r0, m0, 'iot-2/cmd/test0/fmt/json', ...  (13 bytes)
+2015-05-27 01:02:23,226   ibmiotf.device.Client      DEBUG   Received command 'test0'
+2015-05-27 01:02:24,243   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Internet of Things Foundation
+2015-05-27 01:02:26,023   ibmiotf.device.Client      DEBUG   Received CONNACK (0, 0)
+2015-05-27 01:02:26,023   ibmiotf.device.Client      INFO    Connected successfully: d:sf1pr9:Rpi:b827eb9f9034
+2015-05-27 01:02:26,387   ibmiotf.device.Client      DEBUG   Received SUBACK
+2015-05-27 01:02:28,247   ibmiotf.device.Client      DEBUG   Received PUBLISH (d0, q0, r0, m0, 'iot-2/cmd/test0/fmt/json', ...  (13 bytes)
+2015-05-27 01:02:28,248   ibmiotf.device.Client      DEBUG   Received command 'test0'
+2015-05-27 01:02:31,040   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Internet of Things Foundation
+2015-05-27 01:02:32,959   ibmiotf.device.Client      DEBUG   Received CONNACK (0, 0)
+2015-05-27 01:02:32,959   ibmiotf.device.Client      INFO    Connected successfully: d:sf1pr9:Rpi:b827eb9f9034
+2015-05-27 01:02:33,384   ibmiotf.device.Client      DEBUG   Received SUBACK
+2015-05-27 01:02:38,114   ibmiotf.device.Client      WARNING Unable to encrypt messages because TLSv1.2 is unavailable (MQTT over SSL requires at least Python v2.7.9 or 3.4 and openssl v1.0.1)
+2015-05-27 01:02:38,117   ibmiotf.device.Client      DEBUG   Connecting... (address = sf1pr9.messaging.internetofthings.ibmcloud.com, port = 1883, clientId = d:sf1pr9:Rpi:b827eb9f9034, username = use-token-auth, password = 9?0__QJOH!mgZ+UXAY)
+2015-05-27 01:02:39,884   ibmiotf.device.Client      DEBUG   Received CONNACK (0, 0)
+2015-05-27 01:02:39,884   ibmiotf.device.Client      INFO    Connected successfully: d:sf1pr9:Rpi:b827eb9f9034
+2015-05-27 01:02:40,437   ibmiotf.device.Client      DEBUG   Received SUBACK
+2015-05-27 01:02:43,249   ibmiotf.device.Client      DEBUG   Received PUBLISH (d0, q0, r0, m0, 'iot-2/cmd/test0/fmt/json', ...  (13 bytes)
+2015-05-27 01:02:43,249   ibmiotf.device.Client      DEBUG   Received command 'test0'
+2015-05-27 01:02:46,030   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Internet of Things Foundation
+2015-05-27 01:02:49,690   ibmiotf.device.Client      DEBUG   Received CONNACK (0, 0)
+2015-05-27 01:02:49,691   ibmiotf.device.Client      INFO    Connected successfully: d:sf1pr9:Rpi:b827eb9f9034
+2015-05-27 01:02:50,147   ibmiotf.device.Client      DEBUG   Received SUBACK
+2015-05-27 12:17:46,599   ibmiotf.device.Client      WARNING Unable to encrypt messages because TLSv1.2 is unavailable (MQTT over SSL requires at least Python v2.7.9 or 3.4 and openssl v1.0.1)
+2015-05-27 12:17:46,637   ibmiotf.device.Client      DEBUG   Connecting... (address = sf1pr9.messaging.internetofthings.ibmcloud.com, port = 1883, clientId = d:sf1pr9:Rpi:b827eb9f9034, username = use-token-auth, password = 9?0__QJOH!mgZ+UXAY)
+2015-05-27 12:17:47,393   ibmiotf.device.Client      DEBUG   Received CONNACK (0, 0)
+2015-05-27 12:17:47,394   ibmiotf.device.Client      INFO    Connected successfully: d:sf1pr9:Rpi:b827eb9f9034
+2015-05-27 12:17:47,704   ibmiotf.device.Client      DEBUG   Received SUBACK
+2015-05-27 12:17:49,694   ibmiotf.device.Client      DEBUG   Received PUBLISH (d0, q0, r0, m0, 'iot-2/cmd/test0/fmt/json', ...  (13 bytes)
+2015-05-27 12:17:49,694   ibmiotf.device.Client      DEBUG   Received command 'test0'
+2015-05-27 12:17:51,691   ibmiotf.device.Client      DEBUG   Received PUBLISH (d0, q0, r0, m0, 'iot-2/cmd/test0/fmt/json', ...  (13 bytes)
+2015-05-27 12:17:51,692   ibmiotf.device.Client      DEBUG   Received command 'test0'
+2015-05-27 12:17:52,026   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Internet of Things Foundation
+2015-05-27 12:17:53,934   ibmiotf.device.Client      DEBUG   Received CONNACK (0, 0)
+2015-05-27 12:17:53,934   ibmiotf.device.Client      INFO    Connected successfully: d:sf1pr9:Rpi:b827eb9f9034
+2015-05-27 12:17:54,249   ibmiotf.device.Client      DEBUG   Received SUBACK
+2015-05-27 12:17:55,677   ibmiotf.device.Client      DEBUG   Received PUBLISH (d0, q0, r0, m0, 'iot-2/cmd/test0/fmt/json', ...  (13 bytes)
+2015-05-27 12:17:55,677   ibmiotf.device.Client      DEBUG   Received command 'test0'
+2015-05-27 12:17:57,684   ibmiotf.device.Client      DEBUG   Received PUBLISH (d0, q0, r0, m0, 'iot-2/cmd/test0/fmt/json', ...  (13 bytes)
+2015-05-27 12:17:57,684   ibmiotf.device.Client      DEBUG   Received command 'test0'
+2015-05-27 12:17:58,859   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Internet of Things Foundation
+2015-05-27 12:18:00,770   ibmiotf.device.Client      DEBUG   Received CONNACK (0, 0)
+2015-05-27 12:18:00,770   ibmiotf.device.Client      INFO    Connected successfully: d:sf1pr9:Rpi:b827eb9f9034
+2015-05-27 12:18:01,087   ibmiotf.device.Client      DEBUG   Received SUBACK
+2015-05-27 12:18:01,710   ibmiotf.device.Client      DEBUG   Received PUBLISH (d0, q0, r0, m0, 'iot-2/cmd/test0/fmt/json', ...  (13 bytes)
+2015-05-27 12:18:01,711   ibmiotf.device.Client      DEBUG   Received command 'test0'
+2015-05-27 12:18:03,723   ibmiotf.device.Client      DEBUG   Received PUBLISH (d0, q0, r0, m0, 'iot-2/cmd/test0/fmt/json', ...  (13 bytes)
+2015-05-27 12:18:03,723   ibmiotf.device.Client      DEBUG   Received command 'test0'
+2015-05-27 12:18:05,722   ibmiotf.device.Client      DEBUG   Received PUBLISH (d0, q0, r0, m0, 'iot-2/cmd/test0/fmt/json', ...  (13 bytes)
+2015-05-27 12:18:05,723   ibmiotf.device.Client      DEBUG   Received command 'test0'
+2015-05-27 12:18:06,519   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Internet of Things Foundation
+2015-05-27 12:18:08,845   ibmiotf.device.Client      DEBUG   Received CONNACK (0, 0)
+2015-05-27 12:18:08,845   ibmiotf.device.Client      INFO    Connected successfully: d:sf1pr9:Rpi:b827eb9f9034
+2015-05-27 12:18:09,167   ibmiotf.device.Client      DEBUG   Received SUBACK
+2015-05-27 12:18:09,718   ibmiotf.device.Client      DEBUG   Received PUBLISH (d0, q0, r0, m0, 'iot-2/cmd/test0/fmt/json', ...  (13 bytes)
+2015-05-27 12:18:09,718   ibmiotf.device.Client      DEBUG   Received command 'test0'
+2015-05-27 12:19:00,563   ibmiotf.device.Client      WARNING Unable to encrypt messages because TLSv1.2 is unavailable (MQTT over SSL requires at least Python v2.7.9 or 3.4 and openssl v1.0.1)
+2015-05-27 12:19:00,566   ibmiotf.device.Client      DEBUG   Connecting... (address = sf1pr9.messaging.internetofthings.ibmcloud.com, port = 1883, clientId = d:sf1pr9:Rpi:b827eb9f9034, username = use-token-auth, password = 9?0__QJOH!mgZ+UXAY)
+2015-05-27 12:19:01,363   ibmiotf.device.Client      DEBUG   Received CONNACK (0, 0)
+2015-05-27 12:19:01,363   ibmiotf.device.Client      INFO    Connected successfully: d:sf1pr9:Rpi:b827eb9f9034
+2015-05-27 12:19:01,722   ibmiotf.device.Client      DEBUG   Received SUBACK
+2015-05-27 12:19:01,807   ibmiotf.device.Client      DEBUG   Received PUBLISH (d0, q0, r0, m0, 'iot-2/cmd/test0/fmt/json', ...  (13 bytes)
+2015-05-27 12:19:01,807   ibmiotf.device.Client      DEBUG   Received command 'test0'
+2015-05-27 12:19:03,779   ibmiotf.device.Client      DEBUG   Received PUBLISH (d0, q0, r0, m0, 'iot-2/cmd/test0/fmt/json', ...  (13 bytes)
+2015-05-27 12:19:03,780   ibmiotf.device.Client      DEBUG   Received command 'test0'
+2015-05-27 12:19:05,785   ibmiotf.device.Client      DEBUG   Received PUBLISH (d0, q0, r0, m0, 'iot-2/cmd/test0/fmt/json', ...  (13 bytes)
+2015-05-27 12:19:05,786   ibmiotf.device.Client      DEBUG   Received command 'test0'
+2015-05-27 12:19:05,978   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Internet of Things Foundation
+2015-05-27 12:19:07,685   ibmiotf.device.Client      DEBUG   Received CONNACK (0, 0)
+2015-05-27 12:19:07,685   ibmiotf.device.Client      INFO    Connected successfully: d:sf1pr9:Rpi:b827eb9f9034
+2015-05-27 12:19:07,996   ibmiotf.device.Client      DEBUG   Received SUBACK
+2015-05-27 12:19:09,770   ibmiotf.device.Client      DEBUG   Received PUBLISH (d0, q0, r0, m0, 'iot-2/cmd/test0/fmt/json', ...  (13 bytes)
+2015-05-27 12:19:09,771   ibmiotf.device.Client      DEBUG   Received command 'test0'
+2015-05-27 12:19:11,779   ibmiotf.device.Client      DEBUG   Received PUBLISH (d0, q0, r0, m0, 'iot-2/cmd/test0/fmt/json', ...  (13 bytes)
+2015-05-27 12:19:11,779   ibmiotf.device.Client      DEBUG   Received command 'test0'
+2015-05-27 12:19:13,063   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Internet of Things Foundation
+2015-05-27 12:19:14,820   ibmiotf.device.Client      DEBUG   Received CONNACK (0, 0)
+2015-05-27 12:19:14,820   ibmiotf.device.Client      INFO    Connected successfully: d:sf1pr9:Rpi:b827eb9f9034
+2015-05-27 12:19:15,208   ibmiotf.device.Client      DEBUG   Received SUBACK

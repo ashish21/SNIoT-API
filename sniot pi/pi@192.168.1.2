@@ -1,0 +1,14 @@
+import ibmiotf.application
+options = {
+"org": "sf1pr9",
+"id": "sniot-4",
+"auth-method": "apikey",
+"auth-key": "a-sf1pr9-4bwm1xlxgb",
+"auth-token": "fZBHSUQsU?o!gNrW0)"
+}
+def myCommandCallback(cmd):
+    print "yo"
+client = ibmiotf.application.Client(options)
+client.connect()
+client.deviceEventCallback = myCommandCallback
+client.subscribeToDeviceEvents()
